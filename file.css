@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container {
+    background-color: #E4F9F5;
+    color: #66BFBF;
+    margin: 0%;
+    padding: 50px;
+    position: relative;
+}
+hr{
+    margin: 0;
+}
+.web {
+    text-decoration: underline;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 70px;
+    margin-top: 80px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: rgb(179, 92, 35);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: rgba(30, 211, 157, 0.911);
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: black;
+}
+.top-cloud {
+    position: relative;
+    left: 300px;
+}
+
+.bot-cloud {
+    position: relative;
+    left: 10px;
+    top: -300px;
+}
+.mount{
+    position: relative;
+    left: -50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.profile{
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.comp-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.chill-img{
+    
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.footer{
+    background-color: black;
+    padding: 70px, 0;
+}
+.footer-col{
+    width: 25%;
+    padding: 0, 15px;
+}
+.row{
+    position: relative;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-col h4{
+    color: #ffffff;
+    margin-left: 20%;
+}
+.footer-col ul li a{
+    margin-left: 0%;
+    display: contents;
+    color: #66BFBF;
+    text-transform: capitalize;
+}
+.footer-coll h4{
+    color: #ffffff;
+    margin-left: 220%;
+}
+.footer-coll ul a{
+    margin-left: 240%;
+    color: #66BFBF;
+}
+.footer-coll p{
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    margin-left: 15%;
+    margin-bottom: 20%;
+}
